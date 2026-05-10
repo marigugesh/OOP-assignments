@@ -6,15 +6,12 @@ namespace StudTeachManager.Services
     public class StudentService
     {
         private readonly List<Student> _students = new List<Student>();
-
-        // Adds a student to the system
         public void AddStudent(Student student)
         {
             _students.Add(student);
             Console.WriteLine($"[System] Student {student.Name} added successfully.");
         }
 
-        // Finds a student by their ID
         public Student GetStudentById(int id)
         {
             var student = _students.FirstOrDefault(s => s.Id == id);

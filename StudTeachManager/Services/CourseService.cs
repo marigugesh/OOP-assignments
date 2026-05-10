@@ -25,10 +25,9 @@ namespace StudTeachManager.Services
             return course;
         }
 
-        // This method links a student to a course
         public void EnrollStudentInCourse(Student student, string courseTitle)
         {
-            var course = GetCourseByTitle(courseTitle); // This might throw CourseNotFoundException
+            var course = GetCourseByTitle(courseTitle); 
 
             if (!course.EnrolledStudents.Contains(student))
             {

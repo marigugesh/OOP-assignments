@@ -10,7 +10,6 @@ namespace StudTeachManager.Services
 
         public void AddGrade(Student student, Course course, double value)
         {
-            // Validation Logic
             if (value < 0 || value > 100)
                 throw new InvalidGradeException($"The grade {value} is invalid. It must be between 0 and 100.");
 
