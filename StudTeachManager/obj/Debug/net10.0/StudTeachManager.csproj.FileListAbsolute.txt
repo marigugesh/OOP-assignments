@@ -1,0 +1,14 @@
+C:\Users\Mariami\source\repos\StudTeachManager\StudTeachManager\bin\Debug\net10.0\StudTeachManager.exe
+C:\Users\Mariami\source\repos\StudTeachManager\StudTeachManager\bin\Debug\net10.0\StudTeachManager.deps.json
+C:\Users\Mariami\source\repos\StudTeachManager\StudTeachManager\bin\Debug\net10.0\StudTeachManager.runtimeconfig.json
+C:\Users\Mariami\source\repos\StudTeachManager\StudTeachManager\bin\Debug\net10.0\StudTeachManager.dll
+C:\Users\Mariami\source\repos\StudTeachManager\StudTeachManager\bin\Debug\net10.0\StudTeachManager.pdb
+C:\Users\Mariami\source\repos\StudTeachManager\StudTeachManager\obj\Debug\net10.0\StudTeachManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariami\source\repos\StudTeachManager\StudTeachManager\obj\Debug\net10.0\StudTeachManager.AssemblyInfoInputs.cache
+C:\Users\Mariami\source\repos\StudTeachManager\StudTeachManager\obj\Debug\net10.0\StudTeachManager.AssemblyInfo.cs
+C:\Users\Mariami\source\repos\StudTeachManager\StudTeachManager\obj\Debug\net10.0\StudTeachManager.csproj.CoreCompileInputs.cache
+C:\Users\Mariami\source\repos\StudTeachManager\StudTeachManager\obj\Debug\net10.0\StudTeachManager.dll
+C:\Users\Mariami\source\repos\StudTeachManager\StudTeachManager\obj\Debug\net10.0\refint\StudTeachManager.dll
+C:\Users\Mariami\source\repos\StudTeachManager\StudTeachManager\obj\Debug\net10.0\StudTeachManager.pdb
+C:\Users\Mariami\source\repos\StudTeachManager\StudTeachManager\obj\Debug\net10.0\StudTeachManager.genruntimeconfig.cache
+C:\Users\Mariami\source\repos\StudTeachManager\StudTeachManager\obj\Debug\net10.0\ref\StudTeachManager.dll
